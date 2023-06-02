@@ -1,4 +1,3 @@
-# dz2-2023
 echo "# dz2-2023" >> README.md
 git init
 git add README.md
@@ -23,5 +22,3 @@ git branch
 list your branches. a * will appear next to the currently active branch
 git branch [branch-Heorhii Siusarenko]
 create a new branch at the current commit
-git checkout
-switch to another 
